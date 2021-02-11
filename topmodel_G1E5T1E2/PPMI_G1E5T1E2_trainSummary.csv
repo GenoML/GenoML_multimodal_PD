@@ -1,0 +1,12 @@
+Dataset,Best Algorithm,Maximize,AUC (%),Accuracy (%),"Balanced 
+Accuracy (%)",Log Loss,Sensitivity,Specificity,PPV,NPV,"Runtime 
+(Seconds)",Mean CV Score Baseline,Standard Dev CV Score Baseline,"Min CV Score 
+Baseline","Max CV Score 
+Baseline",Mean CV Score BestTuned,"Standard Dev CV Score 
+BestTuned","Min CV Score 
+BestTuned","Max CV Score 
+BestTuned"
+Genetics,MLPClassifier,AUC,70.6581,70.0000,60.6370,0.8288,0.8281,0.3846,0.7681,0.4762,0.8437,0.6944,0.0446,0.6245,0.7573,0.7093,0.0539,0.6129,0.7671
+Clinicodemographics,LogisticRegression,AUC,87.5225,79.4444,75.2704,0.3880,0.8516,0.6538,0.8583,0.6415,0.0570,0.8851,0.0217,0.8619,0.9198,0.8855,0.0220,0.8633,0.9215
+Transcriptomics,SVC,AUC,79.7320,73.8889,54.5957,0.4805,0.9695,0.1224,0.7471,0.6000,1.3407,0.7805,0.0427,0.7149,0.8262,0.7901,0.0471,0.7088,0.8401
+Combined,AdaBoostClassifier,AUC,89.7180,85.5556,82.4116,0.6328,0.8931,0.7551,0.9070,0.7255,1.9253,0.8699,0.0230,0.8427,0.9070,0.9017,0.0164,0.8806,0.9273
