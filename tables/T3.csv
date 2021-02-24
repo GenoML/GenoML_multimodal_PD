@@ -1,0 +1,8 @@
+Data Modality,Stage,Algorithm,AUC at training (%),"Mean, AUC during CV for baseline model (%)","Standard deviation, AUC during CV for baseline model (%)","Min, AUC during CV for baseline model (%)","Max, AUC during CV for baseline model (%)","Mean, AUC during CV for tuned model (%)","Standard deviation, AUC during CV for tuned model (%)","Min, AUC during CV for tuned model (%)","Max, AUC during CV for tuned model (%)"
+Genetics (P<1E-5),Tuning in PPMI,MLPClassifier,70.66,69.44,4.46,62.45,75.73,70.93,5.39,61.29,76.71
+Clinico-demographic,Tuning in PPMI,LogisticRegression,87.52,88.51,2.17,86.19,91.98,88.55,2.20,86.33,92.15
+Transcriptomics (P<1E-2),Tuning in PPMI,SVC,79.73,78.05,4.27,71.49,82.62,79.01,4.71,70.88,84.01
+Combined,Tuning in PPMI,AdaBoostClassifier,89.72,86.99,2.30,84.27,90.70,90.17,1.64,88.06,92.73
+,,,,,,,,,,,
+,,,,,,,,,,,
+Table 3: Performance metric summaries comparing at tuned cross-validation in withheld samples in PPMI ,,,,,,,,,,,

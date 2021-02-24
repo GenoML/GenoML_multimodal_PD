@@ -1,0 +1,8 @@
+Dataset,Model,Optimization,Case Probability Threshold (%),Accuracy (%),Balanced accuracy (%),Log loss,Sensitivity (%),Specificity (%),PPV (%),NPV (%)
+"PPMI, withheld samples",Training phase,optimized,0.51,85,83.95,5.18,86.26,81.63,92.62,68.97
+"PPMI, withheld samples",Training phase,default,0.5,85.56,82.41,4.99,89.31,75.51,90.7,72.55
+"PDBP, external test samples",Tuned model,optimized,0.51,78.58,77.97,7.4,80.2,75.74,85.35,68.46
+"PDBP, external test samples",Tuned model,default,0.5,75,68.09,8.63,93.12,43.07,74.24,78.03
+,,,,,,,,,,
+,,,,,,,,,,
+Table 5: Optimizing the AUC threshold in withheld training samples and in the validation data,,,,,,,,,,

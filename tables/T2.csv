@@ -1,0 +1,8 @@
+Data Modality,Stage,Algorithm,AUC (%),Accuracy (%),Balanced accuracy (%),Log Loss,Sensitivity,Specificity,PPV,NPV
+Genetics (P<1E-5),Training in PPMI (70:30),MLPClassifier,70.66,70.00,60.64,0.83,0.83,0.38,0.77,0.48
+Clinico-demographic,Training in PPMI (70:30),LogisticRegression,87.52,79.44,75.27,0.39,0.85,0.65,0.86,0.64
+Transcriptomics (P<1E-2),Training in PPMI (70:30),SVC,79.73,73.89,54.60,0.48,0.97,0.12,0.75,0.60
+Combined,Training in PPMI (70:30),AdaBoostClassifier,89.72,85.56,82.41,0.63,0.89,0.76,0.91,0.73
+,,,,,,,,,,
+,,,,,,,,,,
+Table 2: Performance metric summaries comparing training in withheld samples in PPMI,,,,,,,,,,

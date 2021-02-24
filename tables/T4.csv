@@ -1,0 +1,7 @@
+Data Modality,Stage,Algorithm,AUC (%),Accuracy (%),Balanced accuracy (%),Log Loss,Sensitivity,Specificity,PPV,NPV
+Combined,Tuning in PPMI,AdaBoostClassifier,89.72,85.56,82.41,0.63,0.89,0.76,0.91,0.73
+Combined; Untuned,Validation in PDBP,AdaBoostClassifier,83.84,75.81,69.31,0.64,0.93,0.46,0.75,0.78
+Combined; Tuned ,Validation in PDBP,AdaBoostClassifier,85.03,75.00,68.09,0.67,0.93,0.43,0.74,0.78
+,,,,,,,,,,
+,,,,,,,,,,
+Table 4: Performance metric summaries comparing combined tuned and untuned model performance on PDBP validation dataset,,,,,,,,,,
