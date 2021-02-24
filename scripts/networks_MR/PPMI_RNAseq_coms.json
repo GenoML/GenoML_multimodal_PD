@@ -1,0 +1,1 @@
+{"communities": [["ENSG00000080824", "ENSG00000086061"]], "algorithm": "Leiden", "params": {"initial_membership": null, "weights": null}, "overlap": false, "coverage": 1.0}
