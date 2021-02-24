@@ -26,4 +26,4 @@ This is the online appendix for the manuscript titled *"Multi-Modality Machine L
 - The `shapAnalysis/` directory includes the 
     - Surrogate XGBoostClassifier models for the combined model, rsIDs only, ENSGs only, or rsIDs and ENSGs only
     - Figures showing top 5% of features in the combined model 
-
+    - A directory with dependence plots between each SNP and its effect on PRS90 
