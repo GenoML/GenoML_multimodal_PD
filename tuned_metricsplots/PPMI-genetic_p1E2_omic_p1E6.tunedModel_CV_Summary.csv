@@ -1,0 +1,2 @@
+Mean_CV_Score_Baseline,Standard_Dev_CV_Score_Baseline,Min_CV_Score_Baseline,Max_CV_Score_Baseline,Mean_CV_Score_BestTuned,Standard_Dev_CV_Score_BestTuned,Min_CV_Score_BestTuned,Max_CV_Score_BestTuned
+0.8044740599386129,0.026406629430967277,0.7629757785467127,0.8346218487394959,0.8419807676832705,0.032475338211091345,0.7993079584775087,0.9

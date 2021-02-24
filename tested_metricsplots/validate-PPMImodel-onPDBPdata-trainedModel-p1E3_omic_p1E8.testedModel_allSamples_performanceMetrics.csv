@@ -1,0 +1,2 @@
+AUC_Percent,Accuracy_Percent,Balanced_Accuracy_Percent,Log_Loss,Sensitivity,Specificity,PPV,NPV
+100.0,100.0,100.0,0.0052173988965983475,1.0,1.0,1.0,1.0
