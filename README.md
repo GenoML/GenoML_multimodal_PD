@@ -27,4 +27,16 @@ This is the online appendix for the manuscript titled *"Multi-Modality Machine L
     - Surrogate XGBoostClassifier models for the combined model, rsIDs only, ENSGs only, or rsIDs and ENSGs only
     - Figures showing top 5% of features in the combined model 
     - A directory with dependence plots between each SNP and its effect on PRS90 
-
+- The `trained_joblibs/` directory includes all the 49 trained models in `.joblib` format
+- The `tuned_joblibs/` directory includes all the 49 tuned models in `.joblib` format
+- The `trained_metricsplots/` includes all metrics for the 49 trained models 
+    - `*.trainedModel_withheldSample_probabilities.png`
+    - `*.trainedModel_withheldSample_ROC.png`
+    - `*.training_withheldSamples_performanceMetrics.csv`
+- The `tuned_metricsplots/` directory includes all metrics for the 49 tuned models 
+    - `*.tunedModel_CV_Summary.csv`
+    - `*.tunedModel_top10Iterations_Summary.csv`
+- The `tested_metricsplots/` directory includes all metrics for the 49 tested models in PDBP
+    - `*.testedModel_allSample_probabilities.png`
+    - `*.testedModel_allSample_ROC.png`
+    - `*.testedModel_allSamples_performanceMetrics.csv`
