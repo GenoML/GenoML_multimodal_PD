@@ -9,7 +9,7 @@ This is the online appendix for the manuscript titled *"Multi-Modality Machine L
 
 ## Helpful Links 
 - BioRxiv pre-print (coming soon!)
-- streamlit interactive app
+- [streamlit interactive app](https://urldefense.com/v3/__https://share.streamlit.io/anant-dadu/shapleypdpredictiongenetics/main__;!!DZ3fjg!o0svR5aS1O5sxyVNhbUpOZKFslC7o63prvIfypa7vLnCWaxLD3x3hz5q5MIAmXG7Qw$)
     - [streamlit interactive app repository](https://github.com/anant-dadu/shapleyPDPredictionGenetics)
 - GenoML short paper (coming soon!)
     - [GenoML website](https://genoml.com/)
@@ -27,3 +27,4 @@ This is the online appendix for the manuscript titled *"Multi-Modality Machine L
     - Surrogate XGBoostClassifier models for the combined model, rsIDs only, ENSGs only, or rsIDs and ENSGs only
     - Figures showing top 5% of features in the combined model 
     - A directory with dependence plots between each SNP and its effect on PRS90 
+
