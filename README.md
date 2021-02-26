@@ -1,11 +1,14 @@
 # Multi-Modality Machine Learning Predicting Parkinson’s Disease (Online Appendix)
 
+`LNG ❤️ Open Science 😍`
 
 ## Summary
 This is the online appendix for the manuscript titled *"Multi-Modality Machine Learning Predicting Parkinson’s Disease"*, where we integrated clinico-demographic, genetic, and transcriptomic data within an automated machine learning open science framework (GenoML) to predict Parkinson’s disease and identify potential novel therapeutic targets for drug development
 
+**Last Updated:** Feb 2021 
+
 ## Workflow Diagram 
-![Workflow Diagram](https://github.com/GenoML/GenoML_multimodal_PD/blob/main/plots/workflow_fig1.jpeg)
+![Workflow Diagram](https://github.com/GenoML/GenoML_multimodal_PD/blob/main/plots/workflow_fig1_new.jpeg)
 
 ## Helpful Links 
 - BioRxiv pre-print (coming soon!)
@@ -52,3 +55,5 @@ This is the online appendix for the manuscript titled *"Multi-Modality Machine L
 |       ST1      	|   Supp. Table 1: Complete performance metrics for best combined method comparing training in withheld samples in PPMI   	|
 |       ST2      	|                      Supp. Table 2: Rarer coding variant burden analyses for genes under GWAS peaks                     	|
 |       ST3      	|                        Supp. Table 3: Complete summary statistics for QTL Mendelian randomization                       	|
+
+
