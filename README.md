@@ -5,7 +5,7 @@
 This is the online appendix for the manuscript titled *"Multi-Modality Machine Learning Predicting Parkinson’s Disease"*, where we integrated clinico-demographic, genetic, and transcriptomic data within an automated machine learning open science framework (GenoML) to predict Parkinson’s disease and identify potential novel therapeutic targets for drug development
 
 ## Workflow Diagram 
-![Workflow Diagram](https://github.com/GenoML/GenoML_multimodal_PD/blob/main/plots/workflow_fig1_new.jpeg)
+![Workflow Diagram](https://github.com/GenoML/GenoML_multimodal_PD/blob/main/plots/workflow_fig1.jpeg)
 
 ## Helpful Links 
 - BioRxiv pre-print (coming soon!)
@@ -40,3 +40,15 @@ This is the online appendix for the manuscript titled *"Multi-Modality Machine L
     - `*.testedModel_allSample_probabilities.png`
     - `*.testedModel_allSample_ROC.png`
     - `*.testedModel_allSamples_performanceMetrics.csv`
+- The `tables/` directory includes all the tables referenced in the manuscript and supplemental tables 
+
+| Sheet Tab Name 	|                                                       Description                                                       	|
+|:--------------:	|:-----------------------------------------------------------------------------------------------------------------------:	|
+|       T1       	|                             Table 1: Descriptive statistics of studies included from AMP-PD.                            	|
+|       T2       	|                   Table 2: Performance metric summaries comparing training in withheld samples in PPMI                  	|
+|       T3       	|          Table 3: Performance metric summaries comparing at tuned cross-validation in withheld samples in PPMI          	|
+|       T4       	| Table 4: Performance metric summaries comparing combined tuned and untuned model performance on PDBP validation dataset 	|
+|       T5       	|              Table 5: Optimizing the AUC threshold in withheld training samples and in the validation data              	|
+|       ST1      	|   Supp. Table 1: Complete performance metrics for best combined method comparing training in withheld samples in PPMI   	|
+|       ST2      	|                      Supp. Table 2: Rarer coding variant burden analyses for genes under GWAS peaks                     	|
+|       ST3      	|                        Supp. Table 3: Complete summary statistics for QTL Mendelian randomization                       	|
