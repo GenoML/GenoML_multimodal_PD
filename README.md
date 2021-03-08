@@ -11,10 +11,10 @@ This is the online appendix for the manuscript titled *"Multi-Modality Machine L
 ![Workflow Diagram](https://github.com/GenoML/GenoML_multimodal_PD/blob/main/plots/workflow_fig1_new.jpeg)
 
 ## Helpful Links 
-- BioRxiv pre-print (coming soon!)
+- [BioRxiv pre-print](https://www.biorxiv.org/content/10.1101/2021.03.05.434104v1)
 - [streamlit interactive app](https://urldefense.com/v3/__https://share.streamlit.io/anant-dadu/shapleypdpredictiongenetics/main__;!!DZ3fjg!o0svR5aS1O5sxyVNhbUpOZKFslC7o63prvIfypa7vLnCWaxLD3x3hz5q5MIAmXG7Qw$)
     - [streamlit interactive app repository](https://github.com/anant-dadu/shapleyPDPredictionGenetics)
-- GenoML short paper (coming soon!)
+- [GenoML short paper](http://arxiv.org/abs/2103.03221v1)
     - [GenoML website](https://genoml.com/)
     - [GenoML repository](https://github.com/GenoML/genoml2)
 
